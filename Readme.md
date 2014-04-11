@@ -31,4 +31,6 @@ SIG timer_interrupt {  // every 2miliseconds
 
 ```
 
-No license. Use it.
+License
+=======
+None. Use it. Linking back won't hurt though.
